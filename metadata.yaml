@@ -1,0 +1,48 @@
+_repo: Aunt-Jane-s-Nieces-Abroad_16566
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16566-h/images/cover-tb.jpg
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Cooke, John Estes
+    - Baum, Lyman Frank
+    - Metcalf, Suzanne
+    - Bancroft, Laura
+    - Akers, Floyd
+    - Van Dyne, Edith
+    - Fitzgerald, Hugh
+    - Fitzgerald, Capt. Hugh
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: Inspired by Louisa May Alcott's Little Women, this book, which Wizard
+  of Oz author L. Frank Baum wrote under the pen name Edith Van Dyne, is much in the
+  same vein as Alcott's cozy coming-of-age tale. The first in a series, the story
+  of this novel follows three nieces who are summoned to their wealthy aunt's estate
+  so she can decide to whom she will bequeath her sizable inheritance. Although the
+  girls couldn't be more different personality-wise, a series of calamities brings
+  them ...
+gutenberg_issued: '2005-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Juvenile fiction'
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Americans -- Italy -- Juvenile fiction'
+- !lcsh 'Brigands and robbers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Family -- Juvenile fiction'
+title: Aunt Jane's Nieces Abroad
+url: http://www.gutenberg.org/ebooks/16566
